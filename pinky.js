@@ -1,0 +1,8 @@
+class pinky{
+    constructor(){
+
+}
+display(){
+    
+}
+}
